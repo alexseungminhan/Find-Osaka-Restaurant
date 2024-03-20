@@ -6,9 +6,9 @@ using namespace std;
 
 int main() {
 	Get_file* file = new Get_file("osaka_tripadvisor.csv");
-	Linked_list* osaka_list = file->get_list(); //file의 리스트를 가져와서 osaka_list에 넣기
+	Linked_list* osaka_list = file->get_list(); 
 
-	Linked_list* result = new Linked_list; //검색결과를 저장할 링크드 리스트 result
+	Linked_list* result = new Linked_list; 
 
 	cout << "\033[31m--------Tripadvisor's Top 500 Osaka Restaurant--------\033[0m" << endl;
 	cout << "sort by 0.no sort 1. ranking 2.number of reviews" << endl;
