@@ -32,6 +32,7 @@ Get_file::Get_file(string file_name) {
 
 				if (ans[j] != "") {
 					new_node->cuisines.push_back(ans[j]);
+					//cuisines include the restaurants' categories
 				}
 			}
 
