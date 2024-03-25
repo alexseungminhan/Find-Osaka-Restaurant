@@ -37,7 +37,6 @@ Get_file::Get_file(string file_name) {
 			}
 
 			list->add_list(new_node);
-
 		}
 
 	}
