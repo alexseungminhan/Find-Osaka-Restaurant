@@ -25,7 +25,7 @@
     >
 </p>
 
-+ type in 1 to sort by ranking, 2 to sort by number of reviews and 3 for no sorting.
+1) type in 1 to sort by ranking, 2 to sort by number of reviews and 3 for no sorting.
 
 <p align="center">
   <img src="Images/2.png"
@@ -34,7 +34,7 @@
     >
 </p>
 
-+ type in 1 to sort in ascending order, 2 to sort in descending order.
+2) type in 1 to sort in ascending order, 2 to sort in descending order.
 
 <p align="center">
   <img src="Images/3.png"
@@ -43,7 +43,7 @@
     >
 </p>
 
-+ type in 1 for vegan options, 2 for vegetarian friendly, 3 for gluten-free, and 0 for no filter.
+3) type in 1 for vegan options, 2 for vegetarian friendly, 3 for gluten-free, and 0 for no filter.
 
 <p align="center">
   <img src="Images/4.png"
@@ -52,7 +52,7 @@
     >
 </p>
 
-+ type in 1 to search by name, 2 to search by category, and 0 to search all.
+4) type in 1 to search by name, 2 to search by category, and 0 to search all.
 
 <p align="center">
   <img src="Images/5.png"
@@ -61,7 +61,7 @@
     >
 </p>
 
-+ type in the name/category that you would like to look up. In this case, Korean food.
+5) type in the name/category that you would like to look up. In this case, Korean food.
 
 <p align="center">
   <img src="Images/6.png"
@@ -70,7 +70,7 @@
     >
 </p>
 
-+ displays restaurants' names, addresses, and rankings with the filter/sorting applied in a designated order.
+6) displays restaurants' names, addresses, and rankings with the filter/sorting applied in a designated order.
 
 #### Notes
 
