@@ -38,7 +38,7 @@ public:
 	//:param sort1: search by descending or ascending order
 	//:param sort2: search by ranking or number of reviews
 
-	Linked_list* resverse_list(Linked_list* list); //reverse linked list in order
+	Linked_list* resverse_list(Linked_list* list); //reverse linked list
 
 };
 
