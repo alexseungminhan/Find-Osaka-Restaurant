@@ -16,7 +16,7 @@
 + Sort Data by raw ranking or number of reviews.
 + Displays restaurant's name, address, and ranking after searching.
 
-### How to Use
+#### How to Use
 
 <p align="center">
   <img src="Images/1.png"
